@@ -1,0 +1,28 @@
+Comandos do github para conectar repositorios
+
+git init -- 
+inicializa um repositorio Git em um diretório (cria a branch master)
+--
+
+git add -- 
+adiciona arquivos ou alterações para serem comitados na branch
+--
+
+git commit --
+grava as alterações na branch
+--
+
+git branch -- 
+cria uma branch
+--
+
+git remote add origin --
+adiciona um repostirio remoto
+--
+
+git push --
+puchando as modifacações locais para o remoto
+--
+
+$ echo "# previsao-tempo" >> README.md
+echo (imprima) "conteudo" >>(no arquivo) NomedoArquivo
